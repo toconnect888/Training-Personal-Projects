@@ -20,4 +20,4 @@ Python (data handling, data formating, automation, file processing and exporting
 
 JavaScript (DOM manipulation, API calls, web interactivity)
 
-React, including JSX syntax, functional components, class components, props, and component nesting. Each example shows how React builds reusable and organized pieces of a web page.
+React ( JSX syntax, functional components, class components, props, component nesting,  building reusable and organized pieces of a web page.
